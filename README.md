@@ -23,7 +23,39 @@ to be defined in the next phase.
 
 ## Getting Started
 
-> Quickstart instructions will be added once the project scope is finalized.
+Prerequisites: [Node.js LTS](https://nodejs.org/) and npm.
+
+```bash
+# 1. Install dependencies
+npm install
+
+# 2. Run the application
+npm start
+```
+
+Expected output:
+
+```
+Capstone v0.1.0 — setup phase complete.
+```
+
+## Project Structure
+
+```
+capstone/
+├── CLAUDE.md      # AI assistant conventions
+├── LICENSE        # MIT license
+├── README.md      # This file
+├── package.json   # npm manifest
+└── src/
+    └── index.js   # Entry point
+```
+
+## Roadmap
+
+- [ ] Define project scope and stack details
+- [ ] Add tests (`npm test`)
+- [ ] Implement core application logic
 
 ## License
 
