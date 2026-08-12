@@ -1,1 +1,43 @@
+========================================================================================
+                          UPDATED PORTFOLIO SITEMAP ARCHITECTURE
+========================================================================================
 
+[ HERO SECTION / LANDING ]
+│
+├── Headline: "Shivyansh Thakur — Front-End Developer"
+├── Sub-headline / Claim: "Crafting responsive, accessible, component-driven web applications using React, ES6+, and RESTful APIs."
+└── Primary CTA: "View Work" or "Schedule an Interview"
+│
+└──► [ SECTION 1: PROOF / CASE STUDIES ]
+     │
+     ├── Project 1: Resume Parser Web Interface
+     │   ├── Tech Stack: React, JavaScript, HTML5, CSS3, REST APIs[cite: 2]
+     │   └── Highlights: Drag-and-drop file upload UI, REST API integration for dynamic form population, and Flexbox responsive design[cite: 2].
+     │
+     ├── Project 2: Interactive E-Commerce Dashboard[cite: 2]
+     │   ├── Tech Stack: JavaScript (ES6+), Bootstrap, CSS Grid, HTML[cite: 2]
+     │   └── Highlights: Single-page application (SPA), async data fetching without page reloads, and modular dashboard layout[cite: 2].
+     │
+     ├── Project 3: AI-Powered Code Snippet Manager 
+     │   ├── Tech Stack: React, Tailwind CSS, LocalStorage / REST API
+     │   └── Highlights: Custom search filter, syntax highlighting, and responsive component layout for organizing developer tools.
+     │
+     ├── Project 4: Real-Time Weather & Air Quality Web App 
+     │   ├── Tech Stack: JavaScript (ES6+), Async/Await, OpenWeather API, CSS3 Grid
+     │   └── Highlights: Asynchronous data fetching, dynamic UI theme changes based on weather conditions, and geo-location integration.
+     │
+     └── Project 5: Accessible Task & Kanban Management Board 
+         ├── Tech Stack: React, React Drag-and-Drop, Web Accessibility 
+         └── Highlights: State management for drag-and-drop workflow columns, full keyboard navigation, and WCAG-compliant UI design.
+│
+└──► [ SECTION 2: ABOUT & COMPETENCIES ]
+     │
+     ├── Bio Summary: B.Tech Full Stack Developer  with strong problem-solving and adaptable learning capabilities.
+     ├── Core Tech Badges: HTML5, CSS3, JavaScript (ES6+), React, Bootstrap, RESTful APIs.
+     └── Certifications: Advanced Frontend Layouts, Core JavaScript & DOM Manipulation, Component-Driven Development.
+│
+└──► [ SECTION 3: CONTACT / ONE ACTION ]
+     │
+     ├── Headline: "Let's Build Something Together"
+     ├── Direct Contact Form: Name, Email, Message
+     └── Quick Links: Email (shivyanshthakur64@gmail.com) | Phone (62305935**) | Location (Palampur, India 176061)
